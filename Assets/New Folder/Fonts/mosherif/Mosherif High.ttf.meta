@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 95384d95890fabb47ab05ebcbd16c8e8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mosherif
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 94ae9127ef3026f46841507414749350, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
